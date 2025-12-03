@@ -13,6 +13,6 @@ public class Encriptacion {
     }
 
     static void encriptarMensaje(String mensaje) {
-
+        System.out.print("Paco");
     }
 }
