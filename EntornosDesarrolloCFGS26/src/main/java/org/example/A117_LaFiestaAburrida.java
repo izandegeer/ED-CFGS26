@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class LaFiestaAburrida {
+public class A117_LaFiestaAburrida {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
@@ -11,7 +11,6 @@ public class LaFiestaAburrida {
 
 
         for (int i = 0; i < numGente; i++) {
-
             System.out.print("\nSoy ");
             String nombre = teclado.nextLine();
             System.out.println("Hola, " + nombre);

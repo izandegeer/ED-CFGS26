@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class Encriptacion {
+public class A102_Encriptacion {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
