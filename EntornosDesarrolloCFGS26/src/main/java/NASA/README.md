@@ -60,7 +60,7 @@ Con cambiar uno de los valores para que cumpla con el otro sería suficiente
 ## Cobertura de código
 ### ¿Qué es la cobertura de código?
 Es el dato que narra qué % del código está siendo cubierto por tests.
-![Screenshot 2026-03-11 at 19.44.29.png](../../../../../../../../../../var/folders/h8/yxvj_xl5179g3htrxx9dtdh80000gn/T/TemporaryItems/NSIRD_screencaptureui_UdUrWM/Screenshot%202026-03-11%20at%2019.44.29.png)
+![imagen.png](imagen.png)
 ### ¿Qué significan los colores que aparecen en el editor?
 No entiendo esta pregunta
 ### ¿Qué partes de tu clase Alien han sido ejecutadas por los tests y cuáles no?
